@@ -1,6 +1,4 @@
 # Neural-Network-Type-Classification-TMNIST-BhavyaParmar
-Here’s a polished and concise description tailored for your GitHub README file:
-
 ---
 
 # **Typeface MNIST Classification with CNN**
