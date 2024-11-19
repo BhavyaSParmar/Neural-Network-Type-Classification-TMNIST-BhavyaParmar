@@ -90,5 +90,3 @@ The model exhibits strong generalization, achieving high accuracy on unseen data
 - [Towards Data Science – CNN Basics](https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939)
 
 ---
-
-Feel free to customize this further based on your repository's structure or personal preferences!
