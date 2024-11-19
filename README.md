@@ -1,6 +1,3 @@
-# Neural-Network-Type-Classification-TMNIST-BhavyaParmar
----
-
 # **Typeface MNIST Classification with CNN**
 
 This repository contains the implementation of a **Convolutional Neural Network (CNN)** designed to classify digit images from the **Typeface MNIST (TMNIST)** dataset. The TMNIST dataset features digit representations (0–9) rendered in diverse font styles, providing a challenging and unique classification task.
