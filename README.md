@@ -2,8 +2,6 @@
 
 This repository contains the implementation of a **Convolutional Neural Network (CNN)** designed to classify digit images from the **Typeface MNIST (TMNIST)** dataset. The TMNIST dataset features digit representations (0–9) rendered in diverse font styles, providing a challenging and unique classification task.
 
----
-
 ## **Dataset Overview**
 The **TMNIST** dataset is inspired by MNIST but introduces variability with 2,990 unique font styles. It contains:
 - **29,900 samples** of 28x28 grayscale images.
