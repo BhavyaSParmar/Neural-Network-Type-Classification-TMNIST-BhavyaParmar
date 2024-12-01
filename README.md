@@ -20,7 +20,7 @@ The CNN is built using TensorFlow/Keras and includes:
 1. **Convolutional Layers**: Extract spatial features using filters (3x3) with ReLU activation.
 2. **Max Pooling Layers**: Reduce dimensionality while retaining important features.
 3. **Dropout Layers**: Prevent overfitting by randomly dropping neurons during training.
-4. **Dense Layers**: Perform classification, ending with a **softmax** layer for multi-class probabilities.
+4. **Dense Layers**: Perform classification, ending with a **softmax** layer for multi-class probability.
 
 ---
 
